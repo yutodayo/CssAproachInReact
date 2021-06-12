@@ -10,7 +10,7 @@ export const InlineStyle = () => {
   };
   const titleStyle = {
     margin: 0,
-    color: "#3d84a"
+    color: "#3d84a3"
   };
   const buttonStyle = {
     backgroundColor: "#abedd8",
